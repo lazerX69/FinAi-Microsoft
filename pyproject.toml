@@ -1,0 +1,21 @@
+[project]
+name = "finai-local-rag"
+version = "1.0.0"
+description = "FinAi - Local financial literacy RAG powered by Foundry Local"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+markers = [
+    "integration: marks tests that require a populated ChromaDB collection and Foundry Local (deselect with '-m not integration')",
+]
+
+[tool.coverage.run]
+source = ["src"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false

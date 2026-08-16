@@ -1,0 +1,168 @@
+FINGUIDE AI BİLGİ TABANI
+01 — TEMELLERİ: FİNANSAL OKURYAZARLIK NEDİR VE NEDENİ ÖNEMLİDİR
+
+FINGUIDE AI BİLGİ TABANI
+01 — TEMEL FİNANSAL KAVRAMLAR: KAPSAMLI FİNANS ANSİKLOPEDİSİ
+
+Sürüm amacı
+Bu belge, FinGuide AI yerel RAG sisteminin temel finansal okuryazarlık kaynağı olarak hazırlanmıştır. İçerik eğitim ve genel bilgilendirme amaçlıdır; kişiye özel yatırım, kredi, vergi, sigorta, emeklilik veya hukuk tavsiyesi değildir. Örnek tutarlar ve oranlar yalnızca kavramları açıklamak için kullanılır; güncel piyasa verisi, ürün önerisi veya getiri vaadi niteliğinde değildir.
+
+Eğitim Amacı
+
+Bu belge, finansal okuryazarlık konusunda sağlam ve sürdürülebilir bir temel oluşturmak amacıyla hazırlanmıştır. İçerik yalnızca eğitim ve genel bilgilendirme amacı taşımaktadır. Belge içerisinde yer alan bilgiler; kişiye özel yatırım, kredi, vergi, sigorta, emeklilik veya hukuk tavsiyesi niteliğinde değildir.
+
+Finansal kararlar; bireyin gelir düzeyi, yaşam koşulları, risk taşıma kapasitesi, zaman ufku, borç durumu, aile yapısı ve kişisel hedefleri gibi birçok değişkene bağlıdır. Bu nedenle burada açıklanan kavramlar, tek başına karar verme aracı olarak değil, finansal olayları daha doğru değerlendirebilmek için temel bir bilgi kaynağı olarak kullanılmalıdır.
+
+Finansal okuryazarlık yalnızca yatırım yapmayı öğrenmek değildir. Günlük harcamaları yönetebilmek, bütçe oluşturabilmek, borçlanmanın uzun vadeli etkilerini anlayabilmek, enflasyonun satın alma gücü üzerindeki etkisini değerlendirebilmek ve geleceğe yönelik planlar oluşturabilmek de finansal okuryazarlığın temel parçalarıdır.
+
+Bu belge, FinGuide AI bilgi tabanının temelini oluşturur. Sonraki tüm finansal konuların daha kolay anlaşılabilmesi için burada açıklanan kavramların dikkatle okunması önerilir.
+
+1. Finansal Okuryazarlık Nedir?
+Tanım
+
+Finansal okuryazarlık; bireyin para ile ilgili konuları anlayabilmesi, finansal bilgileri doğru yorumlayabilmesi ve bilinçli ekonomik kararlar verebilmesi için gerekli bilgi, beceri ve davranışların bütünüdür.
+
+Başka bir ifadeyle finansal okuryazarlık, yalnızca "parayı yönetebilmek" değil, aynı zamanda paranın zaman içerisindeki davranışını, riskleri, maliyetleri ve fırsatları doğru değerlendirebilme yeteneğidir.
+
+Finansal okuryazar bir kişi;
+
+gelir ve giderlerini takip edebilir,
+bütçe oluşturabilir,
+gereksiz borçlanmadan kaçınabilir,
+finansal riskleri değerlendirebilir,
+uzun vadeli hedefler belirleyebilir,
+farklı seçeneklerin maliyetlerini karşılaştırabilir,
+kararlarının gelecekte oluşturacağı etkileri öngörmeye çalışır.
+
+Bu beceriler yalnızca yatırım yapan kişiler için değil, gelir elde eden herkes için önemlidir.
+
+Finansal Okuryazarlığın Önemi
+
+Modern yaşamın hemen her alanı finansal kararlar içerir. Maaş almak, kira ödemek, kredi kullanmak, sigorta yaptırmak, çocukların eğitimi için birikim yapmak veya emeklilik planlamak gibi birçok konu doğrudan finansal bilgi gerektirir.
+
+Finansal bilgi eksikliği çoğu zaman yüksek faizli borçlara, plansız harcamalara, yetersiz tasarrufa ve uzun vadede ekonomik zorluklara yol açabilir.
+
+Buna karşılık finansal okuryazarlığın gelişmesi;
+
+gelirin daha verimli kullanılmasını,
+gereksiz harcamaların azaltılmasını,
+beklenmedik durumlara hazırlıklı olunmasını,
+uzun vadeli hedeflere daha düzenli ulaşılmasını,
+finansal stresin azalmasını,
+ekonomik belirsizliklere karşı dayanıklılığın artmasını destekleyebilir.
+
+Finansal okuryazarlık, kişinin ne kadar para kazandığından bağımsız olarak önemlidir. Yüksek gelir elde eden bir kişinin kötü finansal alışkanlıkları olabilirken, daha düşük gelirli bir kişi doğru planlama sayesinde mali durumunu daha istikrarlı şekilde yönetebilir.
+
+Finansal Okuryazarlık Neleri Kapsar?
+
+Finansal okuryazarlık oldukça geniş bir kavramdır ve birçok farklı alanı kapsar.
+
+Bunlardan bazıları şunlardır:
+
+Gelir Yönetimi
+
+Gelirin düzenli olarak takip edilmesi, farklı gelir kaynaklarının planlanması ve gelir dalgalanmalarının bütçeye etkisinin değerlendirilmesidir.
+
+Gider Yönetimi
+
+Harcamaların kayıt altına alınması, ihtiyaç ve isteklerin birbirinden ayrılması, gereksiz maliyetlerin azaltılması ve sürdürülebilir bir bütçe oluşturulmasıdır.
+
+Tasarruf
+
+Gelirin tamamını harcamamak, gelecekte ortaya çıkabilecek ihtiyaçlar için düzenli kaynak ayırabilmektir.
+
+Tasarruf yalnızca para biriktirmek değildir; aynı zamanda finansal güvenlik oluşturmanın ilk adımıdır.
+
+Borç Yönetimi
+
+Borçların yalnızca aylık taksitlerine değil;
+
+toplam geri ödeme tutarına,
+faiz maliyetine,
+vadeye,
+gecikme risklerine,
+bütçe üzerindeki etkilerine
+
+birlikte bakılmasını ifade eder.
+
+Risk Yönetimi
+
+Hiçbir finansal karar tamamen risksiz değildir.
+
+Finansal okuryazarlık, riskleri tamamen ortadan kaldırmayı değil; onları tanımayı, ölçmeyi ve yönetmeyi amaçlar.
+
+Uzun Vadeli Planlama
+
+Konut satın almak, eğitim masrafları, emeklilik hazırlığı veya büyük yatırımlar gibi uzun süre gerektiren hedeflerin planlanmasını kapsar.
+
+Finansal Okuryazarlığın Temel İlkeleri
+
+Finansal okuryazarlık belirli prensipler üzerine kuruludur.
+
+1. Gelirden Daha Az Harcamak
+
+Finansal sürdürülebilirliğin en temel kuralı budur.
+
+Sürekli olarak gelirden fazla harcama yapmak, zaman içerisinde borçların büyümesine ve finansal dengenin bozulmasına neden olabilir.
+
+Pozitif nakit akışı oluşturabilmek için gelir ile gider arasında makul bir fark bırakılması önemlidir.
+
+2. Düzenli Tasarruf Yapmak
+
+Tasarruf yalnızca yüksek gelirli bireylerin yapabileceği bir faaliyet değildir.
+
+Düzenli olarak küçük tutarlarda yapılan birikimler bile uzun vadede önemli bir finansal güvenlik sağlayabilir.
+
+Önemli olan miktardan çok sürekliliktir.
+
+3. Riskleri Anlamak
+
+Finansal kararlar alınırken yalnızca olası kazançlara odaklanmak yeterli değildir.
+
+Şu sorular da değerlendirilmelidir:
+
+En kötü senaryoda ne olabilir?
+Bu kaybı karşılayabilir miyim?
+Bu karar günlük yaşamımı etkiler mi?
+Beklenmedik bir durumda yeterli likiditem var mı?
+
+Bu soruların cevapları sağlıklı karar vermeyi kolaylaştırır.
+
+4. Bilgiye Dayalı Karar Vermek
+
+Sosyal medya paylaşımları, söylentiler veya kulaktan dolma bilgiler üzerine finansal karar verilmemelidir.
+
+Bir ürün veya hizmet hakkında;
+
+nasıl çalıştığı,
+maliyetleri,
+riskleri,
+sözleşme şartları,
+ücretleri,
+vergisel etkileri
+
+anlaşılmadan karar verilmesi önemli riskler oluşturabilir.
+
+Finansal Okuryazarlıkta Sık Yapılan Yanlışlar
+
+Yeni başlayan bireylerde sık görülen bazı yanlış inanışlar bulunmaktadır.
+
+"Yüksek gelir otomatik olarak zenginlik sağlar."
+
+Yüksek gelir, plansız harcamalar nedeniyle kısa sürede etkisini kaybedebilir.
+
+"Borcun aylık taksiti düşükse sorun yoktur."
+
+Toplam geri ödeme tutarı, faiz oranı ve vade dikkate alınmadan yalnızca aylık ödeme miktarına bakmak yanıltıcı olabilir.
+
+"Tasarruf yapmak için yüksek gelir gerekir."
+
+Tasarruf alışkanlığı çoğu zaman gelir miktarından çok harcama davranışlarıyla ilişkilidir.
+
+"Geçmişte çok kazandıran yatırımlar gelecekte de aynı performansı gösterir."
+
+Finansal piyasalarda geçmiş performans gelecekteki sonuçları garanti etmez.
+
+Bu nedenle geçmiş verilere bakılarak kesin çıkarımlar yapmak doğru değildir.
+
+

@@ -1,0 +1,81 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data
+data/chroma/
+data/model_cache/
+chroma/
+chroma.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+
+# Model/cache files
+.cache/
+huggingface/
+models/
+*.safetensors
+*.gguf
+*.onnx
+*.ort
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Temporary / local development
+archive/
+backup/
+documents_new/
+finguide_current_code.txt
+project_diagnostic.txt
+project_diagnostic_utf8.txt
+test_foundry.py
+app.py.before-final-ui-fix
+app.py.final-backup
+src/config.py.bak
+src/config.py.final-backup
+*.tmp
+*.temp
+*.bak
+*~
+
+# Keep project assets
+!documents/
+!documents/**
+!tests/
+!tests/**
+!docs/
+!docs/**
+*.pyc
+*.pyo
